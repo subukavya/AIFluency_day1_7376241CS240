@@ -1,6 +1,6 @@
 """A question none of the three systems was designed for."""
-from workflow import workflow
-from agent import agent
+from day1_lab.workflow import workflow
+from day1_lab.agent import agent
  
 QUESTION = "I can pay Rs. 30,000. Which two courses can I take together within this budget?"
  
